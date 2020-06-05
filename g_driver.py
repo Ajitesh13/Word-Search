@@ -47,7 +47,7 @@ def choice(c):
             else:
                 response()
         else:
-            print("Choice not available.")
+            print("Choice not available.\n")
             
     response()
     
